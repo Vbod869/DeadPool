@@ -217,57 +217,18 @@ section img{
     }
 }
 
-footer {
-    background-color:#D12027; /* Warna latar belakang gelap */
+footer { /* Warna latar belakang gelap */
     color: #ecf0f1; /* Warna teks cerah */
-    padding: 50px 0; /* Padding untuk ruang vertikal */
+    padding: 20px 0; /* Padding untuk ruang vertikal */
     text-align: center; /* Menyusun teks di tengah */
     font-family: 'Arial', sans-serif; /* Font default untuk teks */
 }
 
 .footer-content {
-    margin-bottom: 30px;
+    margin-bottom: 1px;
 }
-
-.footer-content h3 {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-
-.footer-content p {
-    font-size: 14px;
-    margin-bottom: 20px;
-    line-height: 1.6;
-}
-
-.socials {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-}
-
-.socials li {
-    margin: 0 15px;
-}
-
-.socials a {
-    color: white; /* Warna default ikon */
-    font-size: 24px; /* Ukuran ikon */
-    transition: color 0.3s ease; /* Transisi untuk efek hover */
-}
-
-.socials a:hover {
-    color: #FFD700; /* Warna ikon saat hover */
-}
-
-
 .footer-bottom {
     font-size: 12px; /* Ukuran teks lebih kecil */
+    margin-top: -0px;
 }
 
-.footer-bottom p {
-    margin: 0;
-}
